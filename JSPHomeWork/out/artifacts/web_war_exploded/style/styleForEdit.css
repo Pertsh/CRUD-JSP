@@ -1,0 +1,75 @@
+#main {
+    float: left;
+    border: solid 0px;
+    width: 1500px;
+    height: 1000px;
+    background-image: linear-gradient(to right, #7F7FD5, #86A8E7, #91EAE4);
+    border-radius: 25px;
+
+
+}
+
+#head {
+    float: left;
+    border: solid #86A8E7 1px;
+    width: 1500px;
+    height: 80px;
+    background-color: white;
+    border-radius: 25px;
+
+
+}
+
+#head-title {
+    text-align: center;
+    color: #7F7FD5;
+    font-family: Bahnschrift, serif;
+}
+
+
+#inputAreas {
+    float: left;
+    position: absolute;
+    left: 480px;
+    border: solid red 0px;
+    width: 400px;
+    height: 600px;
+    padding-left: 80px;
+    padding-top: 100px;
+    font-family: Bahnschrift, serif;
+    color: white;
+    text-align: center;
+}
+
+.Areas {
+    width: 300px;
+    margin: 15px;
+    border-radius: 5px;
+    border-color: transparent;
+
+
+}
+
+.buttons {
+    margin-top: 25px;
+
+    font-family: Bahnschrift, serif;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: transparent;
+}
+
+#bt1 {
+    position: relative;
+    margin-right: 10px;
+    background-color: gold;
+}
+
+
+h3 {
+    text-align: center;
+}
+
+
+
